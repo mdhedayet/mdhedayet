@@ -44,7 +44,7 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhedayet&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/mdhedayet)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdhedayet&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/mdhedayet))
 
-## 👨‍💻 Based on VS Code I spent my time on ( <code> printf(date("F j, Y, g:i a"); ) </code> )
+## 👨‍💻 Based on VS Code I spent my time on /today
 <div style="display: flex;">
 
 [![wakatime](https://wakatime.com/badge/user/126d64c1-f290-4322-ba47-1d6c1c63f588.svg)](https://wakatime.com/@126d64c1-f290-4322-ba47-1d6c1c63f588)
