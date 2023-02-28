@@ -47,7 +47,7 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 ## 👨‍💻 Based on VS Code I spent my time on :
 <div style="display: flex;">
 
-[![wakatime](https://wakatime.com/badge/user/126d64c1-f290-4322-ba47-1d6c1c63f588.svg)](https://wakatime.com/@126d64c1-f290-4322-ba47-1d6c1c63f588&v=2)
+[![wakatime](https://wakatime.com/badge/user/126d64c1-f290-4322-ba47-1d6c1c63f588.svg)](https://wakatime.com/@126d64c1-f290-4322-ba47-1d6c1c63f588)
 [![github](https://img.shields.io/github/followers/mdhedayet?logo=github&style=plastic)](https://github.com/mdhedayet?tab=followers)
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"><a href="https://github.com/mdhedayet"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=mdhedayet&style=plastic&color=blueviolet" width="100"/></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
