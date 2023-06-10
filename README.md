@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mdhedayet&show_icons=true&count_private=true" alt="mdhedayet Github Stats"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Hedayet+Ullah)](https://git.io/typing-svg)
 
