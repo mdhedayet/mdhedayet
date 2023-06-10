@@ -1,4 +1,4 @@
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdhedayet&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/mdhedayet))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Hedayet+Ullah)](https://git.io/typing-svg)
 
@@ -42,7 +42,7 @@ Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)*
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhedayet&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/mdhedayet)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdhedayet&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/mdhedayet))
+
 
 ## 👨‍💻 Based on VS Code I spent my time on :
 <div style="display: flex;">
