@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Hedayet+Ullah)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm Md Hedayet Ullah, a passionate developer proficient in Laravel and Vue.js. With a keen interest in crafting efficient and elegant solutions, I'm constantly exploring new ways to merge the power of these technologies. Feel free to explore my repositories and discover the innovative projects I've been working on.
-Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)**.
+Greetings! I'm an experienced software engineer specializing in Laravel and Vue.js. With a passion for developing streamlined and sophisticated solutions, I am dedicated to finding innovative ways to leverage the capabilities of these technologies. Feel free to explore my repositories and discover the groundbreaking projects I've been cultivating. Currently, I am contributing my expertise as a **Software Engineer** at **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
   <a align="bottom" href="https://github.com/mdhedayet/mdhedayet/raw/main/mdhedayet.pdf" download>Download Resume </a>
