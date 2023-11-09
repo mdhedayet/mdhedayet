@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Hedayet+Ullah)](https://git.io/typing-svg)
 
-Full-stack web developer from Dhaka, Bangladesh. I have rich experience in laravel and vuejs based web application development. Using PHP as primary backend language since 2016. Have working experience in Python, PHP, Golang, JavaScript, TypeScript, Laravel, Lumen, Node JS, Express JS, VueJs, MySQL, MongoDB, Google Cloud, BigQuery, Datastore,  Nginx, Docker, Git and Bitbucket also.
+Welcome to my GitHub profile! I'm Md Hedayet Ullah, a passionate developer proficient in Laravel and Vue.js. With a keen interest in crafting efficient and elegant solutions, I'm constantly exploring new ways to merge the power of these technologies. Feel free to explore my repositories and discover the innovative projects I've been working on.
 Currently, working as a **Software Engineer** in **[Bdtask](https://bdtask.com)**.
 
 <!-- <div style="display: flex;">
