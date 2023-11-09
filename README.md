@@ -24,6 +24,7 @@ Currently, I am contributing my expertise as a **Software Engineer** at **[Bdtas
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/ngnix%20-%2300f.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+<img alt="apache2" src="https://img.shields.io/badge/apache2%20-%2300f.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/docker%20-%2300f.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/VPS%20-%23563D7C.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=Google Cloud&logoColor=white"/>
