@@ -38,38 +38,6 @@ Currently, I am contributing my expertise as a **Software Engineer** at **[Bdtas
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
-
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhedayet&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/mdhedayet)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdhedayet&count_private=true&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/mdhedayet))
-
-## 👨‍💻 Based on VS Code I spent my time on :
-<div style="display: flex;">
-
-[![wakatime](https://wakatime.com/badge/user/126d64c1-f290-4322-ba47-1d6c1c63f588.svg)](https://wakatime.com/@126d64c1-f290-4322-ba47-1d6c1c63f588)
-[![github](https://img.shields.io/github/followers/mdhedayet?logo=github&style=plastic)](https://github.com/mdhedayet?tab=followers)
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"><a href="https://github.com/mdhedayet"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=mdhedayet&style=plastic&color=blueviolet" width="100"/></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
-
-</div>
-<br/>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=126d64c1-f290-4322-ba47-1d6c1c63f588&layout=compact&theme=radical&count_private=true)](https://github.com/mdhedayet)
-
-<!-- ### PHP Projects 
-- [Appsero Microservice Project](https://github.com/appsero) (Team Member)
-- [Laravel basic ecommerce](https://github.com/mdhedayet/ecommmerce)
-- [Multiperpose Admin Panel BoilerPlate](https://github.com/mdhedayet/multipurpose-admin-panel-boilerplate)  
-- [WP Study Abroad theme](https://github.com/mdhedayet/educulture) 
-- [WP theme for Lawer](https://github.com/mdhedayet/jurist) 
-- [WP Elementor Plugin Extension](https://github.com/mdhedayet/atl-extension) 
-- [WP Contact Form](https://github.com/mdhedayet/saad_contacts) 
-
- ### Node Projects 
-- [Appsero Pay](https://github.com/appsero) (Appsero pay as a payment method for Appsero and it's Private Project)
-- [My Appsero](https://github.com/appsero) (My Appsero is customer panel for Appsero Client and it's Private Project)
-- [Node & Vue js Fullstack Boilerplate](https://github.com/appsero/node-and-vue-fullstack-boilerplate) -->
-
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/MdHedayet_Ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhedayet" height="30" width="40" /></a>
