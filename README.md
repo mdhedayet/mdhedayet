@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Md+Hedayet+Ullah)](https://git.io/typing-svg)
 
 Greetings! I'm an experienced software engineer specializing in Laravel and Vue.js. With a passion for developing streamlined and sophisticated solutions, I am dedicated to finding innovative ways to leverage the capabilities of these technologies. Feel free to explore my repositories and discover the groundbreaking projects I've been cultivating.
-Currently, I am contributing my expertise as a **Software Engineer** at **[Bdtask](https://bdtask.com)**.
+Currently, I am contributing my expertise as a **Sr. Software Engineer** at **[BitChip Digital](https://bitchipdigital.com)**.
 
 <!-- <div style="display: flex;">
   <a align="bottom" href="https://github.com/mdhedayet/mdhedayet/raw/main/mdhedayet.pdf" download>Download Resume </a>
