@@ -9,7 +9,7 @@ I’m a **Full-Stack Developer & DevOps Engineer** with deep expertise in:
 - **Scalable API-driven SaaS applications**
 - **High-performance backend engineering & system design**
 
-With 7+ years of hands-on experience, I specialize in building secure, optimized, and production-ready digital systems.  
+With 6+ years of hands-on experience, I specialize in building secure, optimized, and production-ready digital systems.  
 My development philosophy centers around **clean architecture, automation-first workflows, and performance-driven engineering**.
 
 Currently, I’m working as a **Sr. Software Engineer** at **[BitChip Digital](https://bitchipdigital.com)**, delivering SaaS platforms, WordPress products, and cloud-native applications.
